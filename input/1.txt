@@ -1,0 +1,8 @@
+000 Bob male 26 172 67.5
+001 Mike male 31 171 74.3
+002 Alice female 24 165 60.5
+003 Linda female 21 158 53.7
+004 Eric male 26 180 78.6
+#####
+000 Bob male 26 172 67.5
+004 Eric male 26 180 78.6
